@@ -4,7 +4,7 @@ An application for managing appointments and patient records in a dentist clinic
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/dentist-clinic.git`
+1. Clone the repository: `git clone https://github.com/Haidar-belal/dentist-clinc.git`
 2. Install dependencies: `npm install`
 
 ## Usage
